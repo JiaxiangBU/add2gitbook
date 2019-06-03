@@ -1,0 +1,4 @@
+name: Gitbook in one HTML
+description: >
+   One click to build a RMarkdown document in the Gitbook style
+create_dir: FALSE

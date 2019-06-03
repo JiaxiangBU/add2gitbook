@@ -1,0 +1,24 @@
+---
+title: R 函数化编程学习笔记
+author: 李家翔
+date: "`r Sys.Date()`"
+output: 
+    bookdown::gitbook:
+        split_by: none
+        split_bib: TRUE
+        df_print: paged
+bibliography: ../add.bib
+---
+
+```{r setup,echo = FALSE}
+knitr::opts_chunk$set(message = FALSE, warning = FALSE)
+```
+
+1. 使用 RMarkdown 的 `child` 参数，进行文档拼接。
+1. 这样拼接以后的笔记方便复习。
+1. 相关问题提交到 [GitHub](https://github.com/JiaxiangBU/tutoring/issues/new)
+
+## 须知
+
+1. `bibliography: ../add.bib` 这部分根据需要设定 `bib` 文件，否则会报错，如果没有，删除即可。
+1. `[GitHub](https://github.com/JiaxiangBU/tutoring/issues/new)` 这部分根据需要进行删减即可。
