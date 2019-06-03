@@ -8,6 +8,6 @@ Authors@R:
            email = "alex.lijiaxiang@foxmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Just for test.
-License: What license it uses
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
