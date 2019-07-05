@@ -7,7 +7,7 @@ output:
         split_by: none
         split_bib: TRUE
         df_print: paged
-bibliography: ../add.bib
+bibliography: refs/add.bib
 ---
 
 ```{r setup,echo = FALSE}
