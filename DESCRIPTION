@@ -6,7 +6,7 @@ Authors@R:
            family = "Li",
            role = c("aut", "cre"),
            email = "alex.lijiaxiang@foxmail.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = "https://orcid.org/0000-0003-3196-6492"))
 Description: Just for test.
 License: MIT + file LICENSE
 Encoding: UTF-8
