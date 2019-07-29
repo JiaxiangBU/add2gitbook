@@ -30,6 +30,4 @@ devtools::install_github("JiaxiangBU/add2gitbook")
 one HTML
 {add2gitbook}</kbd>
 
-如图
-
 ![image](https://user-images.githubusercontent.com/15884785/58787257-06097480-861c-11e9-9a36-cfdf7bd5a5fb.png)
