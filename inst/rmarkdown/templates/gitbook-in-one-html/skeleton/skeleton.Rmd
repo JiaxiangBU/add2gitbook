@@ -25,7 +25,7 @@ knitr::opts_chunk$set(message = FALSE, warning = FALSE)
 ## 须知
 
 1. `bibliography: ../add.bib` 这部分根据需要设定 `bib` 文件，否则会报错，如果没有，删除即可。
-1. `[GitHub](https://github.com/JiaxiangBU/tutoring/issues/new)` 这部分根据需要进行删减即可。
+1. `[GitHub](https://github.com/JiaxiangBU/tutorings/issues/new)` 这部分根据需要进行删减即可。
 
 # 附录 {-}
 
