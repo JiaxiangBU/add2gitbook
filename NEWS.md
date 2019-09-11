@@ -1,3 +1,5 @@
+# add2gitbook 0.1.0
+
 * Added the template `gitbook-in-one-html` with examples, bib default path, headings, issue source button.
 
 # add2gitbook 0.0.0.9000
