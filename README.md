@@ -56,6 +56,6 @@ contributing to this project, you agree to abide by its terms.
 
 <h6 align="center">
 
-What license it uses © [Jiaxiang Li](LICENSE.md)
+MIT © [Jiaxiang Li](LICENSE.md)
 
 </h6>

@@ -40,6 +40,26 @@ devtools::install_github("JiaxiangBU/add2gitbook")
 
 ![image](https://user-images.githubusercontent.com/15884785/58787257-06097480-861c-11e9-9a36-cfdf7bd5a5fb.png)
 
+## Citations
+
+```{r include=FALSE}
+citations <- add2pkg::add_zenodo_citation("README.Rmd")
+```
+
+```{r echo=FALSE, results='asis'}
+cat(citations$Cite)
+```
+
+```{r echo=FALSE, results='asis'}
+cat(paste0("```BibTex\n",citations$BibTex,"\n```"))
+```
+
+```{r echo=FALSE, results='asis'}
+cat(citations$Comments)
+```
+
+
+
 ***
 
 `r add2pkg::add_disclaimer("Jiaxiang Li")`
