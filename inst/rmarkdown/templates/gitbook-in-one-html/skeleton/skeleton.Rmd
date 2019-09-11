@@ -20,12 +20,12 @@ knitr::opts_chunk$set(message = FALSE, warning = FALSE)
 1. 使用 RMarkdown 的 `child` 参数，进行文档拼接。
 1. 这样拼接以后的笔记方便复习。
 1. 相关问题提交到
-    <a class="github-button" href="https://github.com/JiaxiangBU/tutoring/issues" data-show-count="true" aria-label="Issue JiaxiangBU/tutoring on GitHub">Issue</a>
+    <a class="github-button" href="https://github.com/JiaxiangBU/tutoring2/issues" data-show-count="true" aria-label="Issue JiaxiangBU/tutoring on GitHub">Issue</a>
 
 ## 须知
 
 1. `bibliography: ../add.bib` 这部分根据需要设定 `bib` 文件，否则会报错，如果没有，删除即可。
-1. `[GitHub](https://github.com/JiaxiangBU/tutorings/issues/new)` 这部分根据需要进行删减即可。
+1. `[GitHub](https://github.com/JiaxiangBU/tutoring2/issues/new)` 这部分根据需要进行删减即可。
 
 # 附录 {-}
 
