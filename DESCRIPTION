@@ -1,14 +1,16 @@
 Package: add2gitbook
-Title: Just for test
+Title: Add To GitBook
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R:
     person(given = "Jiaxiang",
            family = "Li",
            role = c("aut", "cre"),
            email = "alex.lijiaxiang@foxmail.com",
            comment = c(ORCID = "https://orcid.org/0000-0003-3196-6492"))
-Description: Just for test.
+Description: Add the RMarkdown templates for GitBook.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
+Imports: 
+    magrittr

@@ -2,3 +2,5 @@
 ^\.Rproj\.user$
 ^LICENSE\.md$
 ^README\.Rmd$
+^dev_history_r_pkg\.R$
+^CODE_OF_CONDUCT\.md$

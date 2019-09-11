@@ -39,3 +39,7 @@ devtools::install_github("JiaxiangBU/add2gitbook")
 <kbd>Gitbook in one HTML {add2gitbook}</kbd>
 
 ![image](https://user-images.githubusercontent.com/15884785/58787257-06097480-861c-11e9-9a36-cfdf7bd5a5fb.png)
+
+***
+
+`r add2pkg::add_disclaimer("Jiaxiang Li")`
