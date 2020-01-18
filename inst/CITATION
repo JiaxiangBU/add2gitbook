@@ -1,9 +1,0 @@
-citHeader("To cite add2gitbook in publications use:")
-
-citEntry(
-  entry    = "Manual",
-  title    = "add2gitbook",
-  author   = "Jiaxiang Li",
-  year     = "2019",
-  url      = "https://github.com/JiaxiangBU/add2gitbook",
-)

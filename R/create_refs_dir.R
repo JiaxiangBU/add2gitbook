@@ -1,4 +1,5 @@
 #' Create BibTex file and directory
+#' @import here
 #' @example
 create_refs_dir <- function() {
   refs_path <- here::here("refs")
