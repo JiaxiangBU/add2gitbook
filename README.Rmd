@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 [![DOI](https://zenodo.org/badge/189961555.svg)](https://zenodo.org/badge/latestdoi/189961555)
 <!-- badges: end -->
 
-The goal of add2gitbook is to add somethig for Gitbook.
+The goal of add2gitbook is to add templates to build git book.
 
 ## Installation
 

@@ -7,4 +7,7 @@
 
 0 errors | 0 warnings | 1 note
 
-* This is a new release.
+* Add valid urls.
+* Update Title in title case.
+* Fix mis-spelling.
+* Add tests.
