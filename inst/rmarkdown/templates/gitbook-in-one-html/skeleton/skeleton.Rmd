@@ -1,5 +1,5 @@
 ---
-title: R 函数化编程学习笔记
+title: 学习笔记
 author: 李家翔
 date: "`r Sys.Date()`"
 output: 
@@ -8,6 +8,7 @@ output:
         split_bib: TRUE
         df_print: paged
 bibliography: refs/add.bib
+link-citations: yes
 ---
 
 ```{r setup,echo = FALSE}
